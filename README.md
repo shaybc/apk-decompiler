@@ -11,7 +11,7 @@ https://www.decompiler.com
 
 
 ## Install instructions:
-* Download the zipped release from this repo  
+* Download the latest release from this repo  (https://github.com/shaybc/apk-decompiler/releases/tag/latest)
 * extract it into a folder (preferrably where the path has no spaces)  
 
 ## Use instructions

@@ -10,6 +10,11 @@ https://stackoverflow.com/a/6081365/530884
 https://www.decompiler.com  
 
 
+## Requirements:
+* windows operating system (Windows 10 and above)
+* Java 1.8 or above installed (https://www.oracle.com/java/technologies/downloads/#jdk17-windows)
+* Java bin folder set as part of your path (```set path=%path%;C:\Program Files\Java\jdk-15.0.2\bin```)
+
 ## Install instructions:
 * Download the latest release from this repo  (https://github.com/shaybc/apk-decompiler/releases/tag/latest)
 * extract it into a folder (preferrably where the path has no spaces)  

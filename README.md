@@ -39,6 +39,7 @@ so you should have this structure:
         ---> apktool.jar
         ---> framework-res.apk
 ```  
+![dex tools folder structure](/assets/apkTool.png)  
 i also recommend editing the 'apktool.bat' file and remarking the last line (add the word REM to the beginning of it and a space after it)  
 ![remark the last line](/assets/remark.png)  
   
@@ -64,6 +65,17 @@ so you should have file structure similar to this:
 JD Cli (jd-cli) - https://github.com/intoolswetrust/jd-cli/releases  
 after download: copy the content into "jad" folder (found at the folder you extracted the release)  
 so you should have file structure similar to this:  
+```
+-- apk-decompiler
+   |
+   ---> jad
+        |
+        ---> bin
+        ---> jd-cli
+        ---> jd-cli.bat
+        ---> jd-cli.jar
+        ---> LICENSE.txt
+```  
 ![java decompiler cli folder structure](/assets/jdCli.png)  
   
 ### [Java Decompiler GUI] Optional:  

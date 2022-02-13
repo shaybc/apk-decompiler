@@ -46,6 +46,18 @@ i also recommend editing the 'apktool.bat' file and remarking the last line (add
 Dex to Jar (dex2jar) - https://github.com/pxb1988/dex2jar/releases  
 after download: copy the content into "dex-tools" folder (found at the folder you extracted the release)  
 so you should have file structure similar to this:  
+```
+-- apk-decompiler
+   |
+   ---> dex-tools
+        |
+        ---> bin
+        ---> lib
+        ---> d2j_invoke.bat
+        ---> d2j_invoke.sh
+        ---> d2j-apk-sign.bat
+		...
+```  
 ![dex tools folder structure](/assets/dexTools.png)  
   
 ### [Java Decompiler Cli]  
